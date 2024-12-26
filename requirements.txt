@@ -1,4 +1,4 @@
-# -c ./constraints.txt
+-c ./constraints.txt
 
 pillow~=10.1.0
 numpy~=1.20.0
